@@ -20,7 +20,7 @@
 Google Colabでステップ・バイ・ステップで動作を確認しながら進めます．下記のボタンを押して進んでください．
 
 <div align="center">
-  <a href="https://colab.research.google.com/github/ARIM-Training/Training_python_1/blob/main/python_seminar_1.ipynb">
+  <a href="https://colab.research.google.com/github/ARIM-Training/Training_python_2/blob/main/python_seminar_2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </div>
